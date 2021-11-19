@@ -1,0 +1,97 @@
+.profile{
+    border: solid 5px grey;
+    border-radius: 400px;
+    padding: 10px;
+    width: 300px;
+    margin: 80px 20px 20px 40px;
+    position: absolute;
+}
+
+.home{
+    position: absolute;
+    left: 530px;
+    background-color: aqua;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 0px 25px 0px 25px;
+    border: solid 2px black;
+    background: linear-gradient(45deg, lightgreen, orange);
+
+}
+.contactme{
+    position: absolute;
+    left: 650px;
+    background-color: aqua;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    border: solid 2px black;
+    background: linear-gradient(45deg, lightgreen, orange);
+
+}
+.aboutme{
+    position: absolute;
+    left: 845px;
+    background-color: aqua;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 25px 0px 25px 0px;
+    border: solid 2px black;
+    background: linear-gradient(45deg, lightgreen, orange);
+
+}
+.name{
+    font-size: 50px;
+    position: absolute;
+    right: 820px;
+    top: 50px;
+}
+.second{
+    font-size: 30px;
+    position: absolute;
+    right: 750px;
+    top: 150px;
+    color: orangered;
+}
+.div{
+    position: absolute;
+    top: 100px;
+    right: 0px;
+}
+.social{
+    position: absolute;
+    right: 70px;
+    font-size: 25px;
+}
+
+.tt{
+    border-left: 1800px;
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    font-size: 20px;
+}
+.insta{
+    width: 33px;
+    position: absolute;
+    right: 63px;
+    top: 95px;
+}
+.t{
+    border-left: 1800px;
+    position: absolute;
+    right: 105px;
+    top: 145px;
+    font-size: 20px;
+}
+.linkedin{
+    width: 37px;
+    position: absolute;
+    right: 65px;
+    top: 138px;
+}
+.contact{
+    font-size: 800px;
+}
+
+
