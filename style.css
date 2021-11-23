@@ -1,0 +1,100 @@
+body{
+    text-align: center;
+}
+.heading{
+    border: solid 2px black;
+    margin: 60px 0 0 0;
+    background-color:#0269A4;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+}
+.hitem{
+    color: white;
+    font-family: Lucida Handwriting;
+    font-size: 25px;
+}
+.two{
+    color: white;
+    padding-bottom: 60px;
+}
+.about{
+    font-size: 25px;
+    font-family: Lucida Bright;
+    margin-top: 90px;
+    color:#0269A4;
+}
+.headerabout{
+    border: solid 2px grey;
+    background-color:#0269A4;
+    color: white;
+    font-size: 25px;
+    margin: 0 60px 0 60px;
+}
+.contact{
+    font-size: 24px;
+    color: #0269A4;
+    margin-top: 80px;
+}
+.email{
+    background-color: #0269A4;
+    color: white;
+    padding: 18px;
+    margin-top: 20px;
+    border-radius: 25px;
+}
+.email:hover{
+    color: aqua;
+    text-decoration: underline aqua;
+}
+.follow{
+    font-size: 45px;
+    font-family: Lucida Bright;
+    margin-top: 90px;
+    color: #0269A4;
+}
+/* .linkedin{
+    width: 80px;
+    position: relative;
+    bottom: 5px;
+    left: 20px;
+}
+.insta{
+    width: 55px;
+    position: relative;
+    bottom: 16px;
+    right: 20px;
+    /* margin: 20px 30px 80px 20px; 
+} */
+
+/* .socialimages{
+    background-color: #0269A4;
+    height: 80px;
+} */
+a{
+    font-size: 25px;
+}
+.insta{
+    color: #0269A4;
+    position: absolute;
+    left: 50px;
+}
+.linkedin{
+    color: #0269A4;
+    position: absolute;
+    left: 50px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    font-weight: bold;
+    /* text-decoration:  ;  */
+}
+.copyright{
+    background-color: black;
+    color: white;
+    margin-top: 80px;
+}
